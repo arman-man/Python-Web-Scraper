@@ -1,11 +1,9 @@
 # Stock-Market-Alarm
-Created a python application to get live stock prices and alert users when price targets are met.
+Developed a Python application for real-time stock price monitoring.
 
-Implemented a web-scraper microservice to get live stock data.
+Built a microservice for web scraping, using multithreading to handle concurrent user input.
 
-Applied multithreading to run microservice and receive user-input simultaneously.
-
-Utilized ZeroMQ asynchronous messaging library for queue between microservice and client.
+Utilized ZeroMQ for seamless microservice-to-client communication.
 
 ## Running
 ```py Client.py``` and ```py Microservice.py``` in two separate terminals.
