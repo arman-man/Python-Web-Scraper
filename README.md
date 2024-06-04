@@ -1,6 +1,6 @@
 # Python-Web-Scraper
 
-Developed a Python application for real-time stock price monitoring.
+Developed a Python application for real-time stock price monitoringo.
 
 Built a microservice for web scraping, using multithreading to handle concurrent user input.
 
