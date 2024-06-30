@@ -4,7 +4,7 @@ Developed a Python-based application for monitoring real-time stock prices.
 
 Constructed a web scraping microservice, using multithreading to manage concurrent user inputs.
 
-Utilized ZeroMQ for seamless communication between the microservice and clients.
+Utilized ZeroMQ for seamless communication between the microservice and client.
 
 ## Running
 ```py Client.py``` and ```py Microservice.py``` in two separate terminals.
