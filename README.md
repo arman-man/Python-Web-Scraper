@@ -1,10 +1,10 @@
 # Python-Web-Scraper
 
-Developed a Python-based application for monitoring real-time stock prices.
+Developed a Python application to track and display real-time stock price data.
 
-Constructed a web scraping microservice, using multithreading to manage concurrent user inputs.
+Built a multithreaded web scraping service using BeautifulSoup for efficient data collection.
 
-Utilized ZeroMQ for seamless communication between the microservice and client.
+Processed and organized scraped market data for consistent application use.
 
 ## Running
 ```py Client.py``` and ```py Microservice.py``` in two separate terminals.
